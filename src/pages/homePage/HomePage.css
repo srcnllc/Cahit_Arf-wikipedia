@@ -1,0 +1,39 @@
+.homePage{
+    width: 100%;
+    height: calc(100vh - 90px);
+    background:url(../..//Img/bg\ cahit_arf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.homePage .homeContent{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .8;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    letter-spacing: 3px;
+    line-height: 1.8;
+}
+@media screen and (max-width: 900px) {
+    .homePage .homeContent{
+        font-size: 1em;
+    }
+}
+@media screen and (max-width: 600px) {
+    .homePage{
+        background:none;
+    }
+    .homePage .homeContent{
+        font-size: .8em;
+    }
+}
+@media screen and (max-width: 400px) {
+    .homePage .homeContent{
+        font-size: .6em;
+    }
+}

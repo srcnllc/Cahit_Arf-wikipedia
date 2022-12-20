@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.aboutPage{
+    width: 100%;
+    height:calc(100vh);
+    margin: 0;
+    background-color: rgb(43, 42, 42);
+    color: #fff;
+}
+.aboutPage .aboutContent{
+    width: 80%;
+    height: calc(100vh - 170px);
+    margin: 0 auto;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+@media screen and (max-width: 900px) {
+    .aboutPage .aboutContent{
+        font-size: 1em;
+    }
+}
+@media screen and (max-width: 600px) {
+    .aboutPage .aboutContent{
+        font-size: .8em;
+    }
+
+}
