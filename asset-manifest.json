@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cahit_Arf-wikipedia/static/css/main.95c3f044.css",
+    "main.js": "/Cahit_Arf-wikipedia/static/js/main.b22169c0.js",
+    "static/media/bg cahit_arf.jpg": "/Cahit_Arf-wikipedia/static/media/bg cahit_arf.38f8452bdefa93013bf6.jpg",
+    "static/media/arf1.jpeg": "/Cahit_Arf-wikipedia/static/media/arf1.393fcb01ecd8f8edaef5.jpeg",
+    "static/media/arf4.jpg": "/Cahit_Arf-wikipedia/static/media/arf4.e72a2ce0a1071981eff8.jpg",
+    "static/media/ontl.jpg": "/Cahit_Arf-wikipedia/static/media/ontl.0dfb9d267074da1fa353.jpg",
+    "static/media/cahit-arf.jpg": "/Cahit_Arf-wikipedia/static/media/cahit-arf.7070f0678dc88a7dbb5a.jpg",
+    "static/media/arf2.jpg": "/Cahit_Arf-wikipedia/static/media/arf2.14553663d3e770215414.jpg",
+    "static/media/arf.JPG": "/Cahit_Arf-wikipedia/static/media/arf.13f319dfd516da51e32d.JPG",
+    "index.html": "/Cahit_Arf-wikipedia/index.html",
+    "main.95c3f044.css.map": "/Cahit_Arf-wikipedia/static/css/main.95c3f044.css.map",
+    "main.b22169c0.js.map": "/Cahit_Arf-wikipedia/static/js/main.b22169c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95c3f044.css",
+    "static/js/main.b22169c0.js"
+  ]
+}
