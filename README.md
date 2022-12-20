@@ -2,7 +2,7 @@
 Bir matematikçi olarak matematiğe kattıklarını öğrenmek ve frontend bilgilerimi geliştirmek için "Katherine Johnson" dan sonra "CahitArf" içinde wikipedia hazırladım.
 
 
-Demo_Link :
+Demo_Link : https://srcnllc.github.io/Cahit_Arf-wikipedia/
 
 ![Design preview for CahitARF ](./src/Tasarım/sayfa1.JPG)
 ![Design preview for CahitARF ](./src/Tasarım/sayfa2.JPG)
